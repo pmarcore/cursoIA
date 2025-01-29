@@ -1,2 +1,2 @@
-mensaje = 'Hola Primer programa'
+mensaje = 'Hola segundo programa'
 print (mensaje)
